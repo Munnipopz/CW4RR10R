@@ -1,3 +1,2 @@
-### Hi there 👋
-
-![Dyno](https://github.com/CW4RR10R/archives/raw/master/dino.gif)
+### Spotify 🎵
+[![Spotify](https://git-spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/W4RR10R)
